@@ -2,7 +2,7 @@
 
 **FlytBase AI Engineer Assignment - Prototype Implementation**
 
-A functional prototype of an autonomous drone security analyst that monitors a fixed property using simulated telemetry and video feeds, detects security events in real-time, and provides a queryable historical index.
+A functional prototype of an autonomous drone security analyst that monitors a fixed property using simulated telemetry and video feeds, detects security events in real time, and provides a queryable historical index.
 
 ---
 
@@ -298,32 +298,15 @@ class SecurityQAAgent:
 
 ---
 
-## 📄 License & Submission
-
-This is a prototype for the **FlytBase AI Engineer Assignment**.
-
-**Submission Checklist:**
-- [x] Private GitHub repository
-- [x] `assignments@flytbase.com` added as contributor
-- [x] Comprehensive README with setup instructions
-- [x] Design artifacts (FEATURE_SPEC.md, ARCHITECTURE.md)
-- [x] Test documentation (test_drone_agent.py)
-- [x] Google Colab notebook
-- [x] Demo video with voiceover
-- [x] PDF report (to be generated)
 
 ---
 
 ## 🤝 AI Tools Used
 
 This prototype was developed with assistance from:
-- **Claude (Anthropic)**: Architecture design, code generation, test creation
+- **Claude (Anthropic)**: Architecture design, test creation
 - **Groq API**: LLM inference for event fusion and natural language queries
 
 **Impact**: AI tools accelerated development by ~5x, enabling full prototype with tests, documentation, and Colab notebook in a single session.
 
 ---
-
-## 📞 Contact
-
-For questions about this implementation, please refer to the GitHub repository issues or contact the developer.
