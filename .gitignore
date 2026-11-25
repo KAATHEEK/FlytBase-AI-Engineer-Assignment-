@@ -1,0 +1,5 @@
+__pycache__/
+*.db
+.env
+*.mp4
+.ipynb_checkpoints/
